@@ -1,0 +1,33 @@
+{
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-middleman": "0.1.14",
+    "react-scripts": "2.1.8"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 10",
+    "not op_mini all"
+  ],
+  "name": "bcs-integration",
+  "description": "bcs integration example",
+  "version": "0.1.0",
+  "author": "Yuri Ivanchenko <tech.jurgenet@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jurgenet/bcs-integration.git"
+  },
+  "private": true
+}
