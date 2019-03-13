@@ -8,7 +8,7 @@
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-middleman": "0.1.14",
+    "react-middleman": "0.1.15",
     "react-scripts": "2.1.8"
   },
   "eslintConfig": {

@@ -7943,10 +7943,10 @@ react-is@^16.8.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.4.tgz#90f336a68c3a29a096a3d648ab80e87ec61482a2"
   integrity sha512-PVadd+WaUDOAciICm/J1waJaSvgq+4rHE/K70j0PFqKhkTBsPv/82UGQJNXAngz1fOQLLxI6z1sEDmJDQhCTAA==
 
-react-middleman@0.1.14:
-  version "0.1.14"
-  resolved "https://registry.yarnpkg.com/react-middleman/-/react-middleman-0.1.14.tgz#aab4e34535075d84c52c43fd5973ebedcf0cb1e0"
-  integrity sha512-S+EcU4qlAQuJrkpjkEny8HFpoZ17mWaeNRWzTCkjL8oOBven1Azqo3N2ihNtDJqeikUKfp2i1EIOeXwYq7R4yQ==
+react-middleman@0.1.15:
+  version "0.1.15"
+  resolved "https://registry.yarnpkg.com/react-middleman/-/react-middleman-0.1.15.tgz#97bab43656658a3699c80bc214d18e384b98e026"
+  integrity sha512-clzLHjLMwgToJSghRlc/lzR6sLTPxFeg8p2ir4DsTd4+7kLiR4W9RklfGjLnMdZvqcx2f/nHtVmUAL2B7b5CAA==
   dependencies:
     baconizer "0.1.4"
   optionalDependencies:
